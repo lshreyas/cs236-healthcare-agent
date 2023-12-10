@@ -1,0 +1,27 @@
+{
+    "combined": {
+        "loss": 10.373516082763672
+    },
+    "output": {
+        "bleu": 0.13175679743289948,
+        "char_error_rate": 1.1460882425308228,
+        "loss": 10.373516082763672,
+        "next_token_perplexity": 32000.48046875,
+        "perplexity": 32000.185546875,
+        "rouge1_fmeasure": 0.37025755643844604,
+        "rouge1_precision": 0.5036569237709045,
+        "rouge1_recall": 0.3690873384475708,
+        "rouge2_fmeasure": 0.21884694695472717,
+        "rouge2_precision": 0.2815062999725342,
+        "rouge2_recall": 0.21292318403720856,
+        "rougeL_fmeasure": 0.2958146035671234,
+        "rougeL_precision": 0.3929870128631592,
+        "rougeL_recall": 0.2959904074668884,
+        "rougeLsum_fmeasure": 0.3535332977771759,
+        "rougeLsum_precision": 0.48041635751724243,
+        "rougeLsum_recall": 0.35104742646217346,
+        "sequence_accuracy": 0.0,
+        "token_accuracy": 0.008390418253839016,
+        "word_error_rate": 1.3731439113616943
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "batch_size": 1,
+    "best_eval_metric_checkpoint_number": 0,
+    "best_eval_metric_epoch": 0,
+    "best_eval_metric_steps": 0,
+    "best_eval_metric_value": Infinity,
+    "best_eval_test_metrics": {},
+    "best_eval_train_metrics": {},
+    "best_eval_validation_metrics": {},
+    "best_increase_batch_size_eval_metric": Infinity,
+    "checkpoint_number": 1,
+    "epoch": 1,
+    "last_improvement_steps": 0,
+    "last_increase_batch_size": 0,
+    "last_increase_batch_size_eval_metric_improvement": 0,
+    "last_increase_batch_size_steps": 0,
+    "last_learning_rate_reduction": 0,
+    "last_learning_rate_reduction_steps": 0,
+    "learning_rate": 0.0004,
+    "num_increases_batch_size": 0,
+    "num_reductions_learning_rate": 0,
+    "steps": 7226,
+    "test_metrics": {
+        "combined": {},
+        "output": {}
+    },
+    "train_metrics": {
+        "combined": {
+            "loss": [
+                [
+                    0,
+                    7226,
+                    0.9984581470489502
+                ]
+            ]
+        },
+        "output": {
+            "bleu": [
+                [
+                    0,
+                    7226,
+                    0.24541305005550385
+                ]
+            ],
+            "char_error_rate": [
+                [
+                    0,
+                    7226,
+                    0.6611566543579102
+                ]
+            ],
+            "loss": [
+                [
+                    0,
+                    7226,
+                    0.9984581470489502
+                ]
+            ],
+            "next_token_perplexity": [
+                [
+                    0,
+                    7226,
+                    16648.443359375
+                ]
+            ],
+            "perplexity": [
+                [
+                    0,
+                    7226,
+                    31953.376953125
+                ]
+            ],
+            "rouge1_fmeasure": [
+                [
+                    0,
+                    7226,
+                    0.5478297472000122
+                ]
+            ],
+            "rouge1_precision": [
+                [
+                    0,
+                    7226,
+                    0.4645094871520996
+                ]
+            ],
+            "rouge1_recall": [
+                [
+                    0,
+                    7226,
+                    0.7031636238098145
+                ]
+            ],
+            "rouge2_fmeasure": [
+                [
+                    0,
+                    7226,
+                    0.3351964056491852
+                ]
+            ],
+            "rouge2_precision": [
+                [
+                    0,
+                    7226,
+                    0.28117263317108154
+                ]
+            ],
+            "rouge2_recall": [
+                [
+                    0,
+                    7226,
+                    0.43928688764572144
+                ]
+            ],
+            "rougeL_fmeasure": [
+                [
+                    0,
+                    7226,
+                    0.4891786277294159
+                ]
+            ],
+            "rougeL_precision": [
+                [
+                    0,
+                    7226,
+                    0.41333311796188354
+                ]
+            ],
+            "rougeL_recall": [
+                [
+                    0,
+                    7226,
+                    0.6323035359382629
+                ]
+            ],
+            "rougeLsum_fmeasure": [
+                [
+                    0,
+                    7226,
+                    0.5375848412513733
+                ]
+            ],
+            "rougeLsum_precision": [
+                [
+                    0,
+                    7226,
+                    0.45579710602760315
+                ]
+            ],
+            "rougeLsum_recall": [
+                [
+                    0,
+                    7226,
+                    0.6902949213981628
+                ]
+            ],
+            "sequence_accuracy": [
+                [
+                    0,
+                    7226,
+                    0.0
+                ]
+            ],
+            "token_accuracy": [
+                [
+                    0,
+                    7226,
+                    0.0016261647688224912
+                ]
+            ],
+            "word_error_rate": [
+                [
+                    0,
+                    7226,
+                    0.8509002923965454
+                ]
+            ]
+        }
+    },
+    "tune_checkpoint_num": 0,
+    "validation_metrics": {
+        "combined": {},
+        "output": {}
+    }
+}
