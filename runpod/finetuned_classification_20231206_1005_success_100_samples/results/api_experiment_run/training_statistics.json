@@ -1,0 +1,77 @@
+{
+    "evaluation_frequency": {
+        "frequency": 1,
+        "period": "epoch"
+    },
+    "test": {},
+    "training": {
+        "combined": {
+            "loss": [
+                0.9984581470489502
+            ]
+        },
+        "output": {
+            "bleu": [
+                0.24541305005550385
+            ],
+            "char_error_rate": [
+                0.6611566543579102
+            ],
+            "loss": [
+                0.9984581470489502
+            ],
+            "next_token_perplexity": [
+                16648.443359375
+            ],
+            "perplexity": [
+                31953.376953125
+            ],
+            "rouge1_fmeasure": [
+                0.5478297472000122
+            ],
+            "rouge1_precision": [
+                0.4645094871520996
+            ],
+            "rouge1_recall": [
+                0.7031636238098145
+            ],
+            "rouge2_fmeasure": [
+                0.3351964056491852
+            ],
+            "rouge2_precision": [
+                0.28117263317108154
+            ],
+            "rouge2_recall": [
+                0.43928688764572144
+            ],
+            "rougeL_fmeasure": [
+                0.4891786277294159
+            ],
+            "rougeL_precision": [
+                0.41333311796188354
+            ],
+            "rougeL_recall": [
+                0.6323035359382629
+            ],
+            "rougeLsum_fmeasure": [
+                0.5375848412513733
+            ],
+            "rougeLsum_precision": [
+                0.45579710602760315
+            ],
+            "rougeLsum_recall": [
+                0.6902949213981628
+            ],
+            "sequence_accuracy": [
+                0.0
+            ],
+            "token_accuracy": [
+                0.0016261647688224912
+            ],
+            "word_error_rate": [
+                0.8509002923965454
+            ]
+        }
+    },
+    "validation": {}
+}
